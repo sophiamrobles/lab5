@@ -1,0 +1,22 @@
+  main {
+    background-color: black;
+  }
+  
+  h1 {
+    color: hotpink; 
+    font-family: 'Times New Roman', Times, serif;
+    float: right;
+    font-weight: bold;
+  }
+  
+  p {
+    color: pink;
+    font-family: 'Times New Roman', Times, serif;
+    float: right;
+  }
+  
+  h2 {
+    color: hotpink;
+    font-size: 60px;
+    background-color: #56f442;
+  }
