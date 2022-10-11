@@ -1,21 +1,24 @@
-  main {
+  body {
     background-color: black;
-  }
-  
-  h1 {
-    color: hotpink; 
-    font-family: 'Times New Roman', Times, serif;
-    float: right;
-    font-weight: bold;
-  }
-  
-  p {
-    color: pink;
-    font-family: 'Times New Roman', Times, serif;
-    float: right;
-  }
-  
-  h2 {
     color: hotpink;
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
   }
+
+  td {
+    color: black;
+    text-align: center; 
+    background-color: lightpink
+  }
+
+  th {
+    color: black;
+    text-align: center; 
+    background-color: hotpink;
+  }
+  
+  .img {
+    height: 200 px;
+    width: 200 px; 
+  }
+  
