@@ -1,32 +1,34 @@
   body {
     background-color: mistyrose;
-    color: hotpink;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
   }
-
+  h1 {
+    color:hotpink;
+    font-weight: bold;
+  }
   table {
     margin-left: auto;
     margin-right: auto;
     border: 5px solid palevioletred;
   }
-
   td {
     color: black;
-    text-align: center; 
     background-color: lightpink;
     border: 1px solid palevioletred;
   }
-
   th {
     color: black;
-    text-align: center; 
     background-color: hotpink;
     border: 1px solid palevioletred;
   }
-  
   .img {
     height: 200 px;
     width: 200 px; 
+  }
+  h3 {
+    color:hotpink;
+    font-style:italic;
+    font-weight:lighter;
   }
   
