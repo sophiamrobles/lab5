@@ -13,12 +13,10 @@
     border: 5px solid palevioletred;
   }
   td {
-    color: black;
     background-color: lightpink;
     border: 1px solid palevioletred;
   }
   th {
-    color: black;
     background-color: hotpink;
     border: 1px solid palevioletred;
   }
