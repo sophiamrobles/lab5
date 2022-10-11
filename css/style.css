@@ -7,20 +7,19 @@
 
   table {
     box-align:center;
+    border-color:silver;
   }
 
   td {
     color: black;
     text-align: center; 
     background-color: lightpink;
-    border-color: aliceblue;
   }
 
   th {
     color: black;
     text-align: center; 
     background-color: hotpink;
-    border-color: aliceblue;
   }
   
   .img {
