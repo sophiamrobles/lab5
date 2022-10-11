@@ -12,13 +12,15 @@
   td {
     color: black;
     text-align: center; 
-    background-color: lightpink
+    background-color: lightpink;
+    border-color: aliceblue;
   }
 
   th {
     color: black;
     text-align: center; 
     background-color: hotpink;
+    border-color: aliceblue;
   }
   
   .img {
