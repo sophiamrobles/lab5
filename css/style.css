@@ -8,19 +8,20 @@
   table {
     margin-left: auto;
     margin-right: auto;
-    border-color:silver;
   }
 
   td {
     color: black;
     text-align: center; 
     background-color: lightpink;
+    border-color: silver;
   }
 
   th {
     color: black;
     text-align: center; 
     background-color: hotpink;
+    border-color: silver;
   }
   
   .img {
